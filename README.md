@@ -238,3 +238,16 @@ Delete a department details
     URL     : /api/data/department/delete/D113
     Method  : DELETE
     Response: "Done"
+    
+    
+##Docker Creation
+
+build docker image
+
+    sudo docker build -t employee-app:v0.1 -f Dockerfile .
+    
+Running docker image
+
+    sudo docker run -p 8000:8000 -t employee-app:v0.1
+    
+Note: while running docker use 8000 as docker port becase I have made the shell script like that.
