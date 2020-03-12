@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "model": "dataset.Employee",
+    "fields":     {
+        "emp_id": "EI101",
+        "emp_name": "emp1",
+        "emp_age": 30,
+        "emp_salary": 50000,
+        "emp_dept": 1
+    }
+  }
+]

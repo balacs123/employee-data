@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "model": "dataset.Department",
+    "fields": {
+      "dept_id": "D111",
+      "dept_name": "sales"
+    }
+  },
+  {
+    "id": 2,
+    "model": "dataset.Department",
+    "fields": {
+      "dept_id": "D112",
+      "dept_name": "finance"
+    }
+  },
+  {
+    "id": 3,
+    "model": "dataset.Department",
+    "fields": {
+      "dept_id": "D113",
+      "dept_name": "hr"
+    }
+  },
+  {
+    "id": 4,
+    "model": "dataset.Department",
+    "fields": {
+      "dept_id": "D114",
+      "dept_name": "development"
+    }
+  }
+]
