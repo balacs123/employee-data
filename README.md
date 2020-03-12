@@ -1,7 +1,7 @@
 # Employee Data
 Employee data management application with employee and department information
 
-##Server running details
+## Server running details
 
 ####Database setup
 
